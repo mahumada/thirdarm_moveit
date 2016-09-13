@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: thirdarm_description
+    relative_path: urdf/thirdarm_description.urdf.xacro
+  SRDF:
+    relative_path: config/thirdarm.srdf
+  CONFIG:
+    generated_timestamp: 1473728504
